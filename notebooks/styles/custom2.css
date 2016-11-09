@@ -7,7 +7,7 @@ font-family: "Computer Modern";
 src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
 }
 div.cell{
-	width:800px;
+	width:900px;
 	margin-left:5% !important;
 	margin-right:auto;
 }
@@ -47,7 +47,7 @@ div.text_cell_render{
 font-family: 'Alegreya Sans',Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 line-height: 135%;
 font-size: 120%;
-width:600px;
+width:800px;
 margin-left:auto;
 margin-right:auto;
 }
